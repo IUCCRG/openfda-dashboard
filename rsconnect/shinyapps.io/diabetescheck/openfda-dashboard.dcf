@@ -1,0 +1,8 @@
+name: openfda-dashboard
+account: diabetescheck
+server: shinyapps.io
+bundleId: 218442
+url: https://diabetescheck.shinyapps.io/openfda-dashboard
+when: 1436670012.91885
+asMultiple: FALSE
+asStatic: FALSE
